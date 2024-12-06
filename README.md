@@ -1,7 +1,7 @@
 # SQL_Projects
 This repository contains SQL porfolio projects
 
-# 1. Instagram Clone Project
+## 1. Instagram Clone Project
 
 MySQL project which is a cloned mimic version of Instagram database. It is used to perform data analysis for real world business related questions and scenarios such as <br>
 * finding out the rewarding system for the loyal users
