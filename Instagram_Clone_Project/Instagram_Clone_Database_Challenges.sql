@@ -1,6 +1,10 @@
 /* We want to reward our users who have been around the longest
    Finding the 5 oldest users */
 
+#!/bin/bash
+echo "Hello, this is a code shell!"
+# Add more shell commands as needed
+
 SELECT *
 FROM users
 ORDER BY created_at
